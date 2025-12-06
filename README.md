@@ -83,7 +83,8 @@ PROCEDURE - (LPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 23 01 27_8742811a](https://github.com/user-attachments/assets/dcaf2f2b-9df4-4e2a-a760-570935ead90b)
-![WhatsApp Image 2025-12-05 at 23 06 11_17de8870](https://github.com/user-attachments/assets/63354395-34f1-4ce2-bf01-422e169a16b0)
+<img width="1600" height="1188" alt="image" src="https://github.com/user-attachments/assets/c40ebdc0-c6cc-45c8-8969-153699ed3388" />
+
 
 
 ---
@@ -156,7 +157,8 @@ PROCEDURE - ( HPF):
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 23 04 45_fe85bcae](https://github.com/user-attachments/assets/ebcb2789-9f8f-4da9-83f4-236ee0039cab)
-![WhatsApp Image 2025-12-05 at 23 05 23_79ec5f1f](https://github.com/user-attachments/assets/6bf64025-5962-45ba-9ba7-5f32ed766ce2)
+<img width="1600" height="1158" alt="image" src="https://github.com/user-attachments/assets/bcc1c2e5-9612-492b-87e5-671441d5b72a" />
+
 
 ---
 
@@ -231,7 +233,8 @@ PROCEDURE:BAND PASS FILTER
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 ![WhatsApp Image 2025-12-05 at 23 09 48_8b32f0f7](https://github.com/user-attachments/assets/1bf42199-8ad2-471e-8c92-3b507f988704)
-![WhatsApp Image 2025-12-05 at 23 10 15_6c7fc31c](https://github.com/user-attachments/assets/ffc783d1-e854-4c4b-888f-b9270321348c)
+<img width="1600" height="987" alt="image" src="https://github.com/user-attachments/assets/80a0a5b0-4aac-41ed-bfcb-a1d305405135" />
+
 
 
 ---
